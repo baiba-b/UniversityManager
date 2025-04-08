@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UniversityPages
+build_property.RootNamespace = UniversityPages
+build_property.ProjectDir = C:\Users\baibi\Downloads\MD_4_NET-master\testnet\UniversityPages\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\baibi\Downloads\MD_4_NET-master\testnet\UniversityPages
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Assignements/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWduZW1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Assignements/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWduZW1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Assignements/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWduZW1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Assignements/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWduZW1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Assignements/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWduZW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Submissions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Submissions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Submissions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Submissions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Submissions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baibi/Downloads/MD_4_NET-master/testnet/UniversityPages/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2ejsopcdle

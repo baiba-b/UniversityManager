@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baibi\\Downloads\\MD_4_NET-master\\testnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761F6F2E-177F-44B6-B7AA-3E960617FDE5}|UniversityPages\\UniversityPages.csproj|c:\\users\\baibi\\downloads\\md_4_net-master\\testnet\\universitypages\\universitypages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{761F6F2E-177F-44B6-B7AA-3E960617FDE5}|UniversityPages\\UniversityPages.csproj|solutionrelative:universitypages\\universitypages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761F6F2E-177F-44B6-B7AA-3E960617FDE5}|UniversityPages\\UniversityPages.csproj|c:\\users\\baibi\\downloads\\md_4_net-master\\testnet\\universitypages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761F6F2E-177F-44B6-B7AA-3E960617FDE5}|UniversityPages\\UniversityPages.csproj|solutionrelative:universitypages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baibi\\Downloads\\MD_4_NET-master\\testnet\\UniversityPages\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityPages\\Program.cs",
+              "ToolTip": "C:\\Users\\baibi\\Downloads\\MD_4_NET-master\\testnet\\UniversityPages\\Program.cs",
+              "RelativeToolTip": "UniversityPages\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:51:46.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityPages",
+              "DocumentMoniker": "C:\\Users\\baibi\\Downloads\\MD_4_NET-master\\testnet\\UniversityPages\\UniversityPages.csproj",
+              "RelativeDocumentMoniker": "UniversityPages\\UniversityPages.csproj",
+              "ToolTip": "C:\\Users\\baibi\\Downloads\\MD_4_NET-master\\testnet\\UniversityPages\\UniversityPages.csproj",
+              "RelativeToolTip": "UniversityPages\\UniversityPages.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T16:51:07.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

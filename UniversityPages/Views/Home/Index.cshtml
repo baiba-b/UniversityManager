@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!--Ģenerēs testa datus-->
+<div class="text-center">
+    <p><strong>Lai izveidotu "Submission" nepieciešams autentificēties</strong></p>
+
+    <button onclick="createTestData()" class="btn btn-primary">Create Test Data</button>
+    <button onclick="deleteTestData()" class="btn btn-danger">Delete Data</button>
+
+    <script>
+        function createTestData() {
+            fetch('/Home/CreateTestData')
+                .then(response => {
+                    if (response.ok) {
+                        alert("Test data created!");
+                    } else {
+                        alert("Something went wrong.");
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+
+        function deleteTestData() {
+            fetch('/Home/DeleteTestData')
+                .then(response => {
+                    if (response.ok) {
+                        alert("Data deleted!");
+                    } else {
+                        alert("Something went wrong.");
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+    </script>
+
+</div>
